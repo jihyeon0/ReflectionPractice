@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UE_Projects\\ReflectionPractice\\Source\\ReflectionPractice\\ReflectionPractice.Build.cs",
+		"D:\\UE_Projects\\ReflectionPractice\\Source\\ReflectionPractice.Target.cs",
+		"D:\\UE_Projects\\ReflectionPractice\\Source\\ReflectionPracticeEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.1"
+}
